@@ -275,7 +275,7 @@
           <iframe
             width="100%"
             height="280"
-            src="https://www.youtube.com/embed/VIDEO_INSTITUCIONAL"
+            src="https://youtube.com"
             title="Apresentação Institucional iGreen Energy"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -286,10 +286,16 @@
 
         <!-- Vídeo Institucional 2 -->
         <div class="video-container">
-          <!-- Troque VIDEO_INSTITUCIONAL_2 pelo código do segundo vídeo no YouTube -->
-          <iframe width="100" height="280" src="https://www.youtube.com/embed/tBa0PaHfW7Y?si=MLW1Wu0vNZYGLVre" title="YouTube video player" frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-          <div class="video-legenda">Retrospectiva vale a pena sempre voltar as origens.Deus sempre esteve conosco o tempo todo!!!</div>
+          <iframe
+            width="100%"
+            height="280"
+            src="https://youtube.com"
+            title="Retrospectiva iGreen Energy"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+          </iframe>
+          <div class="video-legenda">Retrospectiva vale a pena sempre voltar às origens. Deus sempre esteve conosco o tempo todo!!!</div>
         </div>
       </div>
     </section>
